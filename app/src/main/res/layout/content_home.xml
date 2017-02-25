@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:paddingBottom="240dp"
+    android:paddingBottom="120dp"
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
@@ -33,6 +33,27 @@
         android:textSize="48dp"
         android:background="#11ffaa"
         android:layout_weight="10"
-        android:gravity="center" />
+        android:gravity="center"
+        android:layout_margin="8dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="this is a button"
+        android:textSize="48dp"
+        android:background="#11ffaa"
+        android:layout_weight="10"
+        android:gravity="center"
+        android:layout_margin="8dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="this is a button"
+        android:textSize="48dp"
+        android:background="#11ffaa"
+        android:layout_weight="10"
+        android:gravity="center"
+        android:layout_margin="8dp"/>
 
 </LinearLayout>
