@@ -38,7 +38,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/button1"
+        android:text="@string/button2"
         android:textSize="32dp"
         android:background="#11ffaa"
         android:layout_weight="10"
@@ -48,7 +48,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/button1"
+        android:text="@string/button3"
         android:textSize="32dp"
         android:background="#11ffaa"
         android:layout_weight="10"
